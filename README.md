@@ -6,20 +6,19 @@ Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 There are two methods for getting started with this repo.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
 ```
 > npm install
 > npm start
+localhost:8080
 ```
+
+
+dependecies:
+
+"babel-preset-stage-1": "^6.1.18",
+    "lodash": "^3.10.1",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-redux": "5.0.7",
+    "redux": "4.0.0",
+    "youtube-api-search": "0.0.5"
